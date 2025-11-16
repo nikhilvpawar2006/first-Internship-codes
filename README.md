@@ -1,3 +1,2 @@
 # first-Internship-codes
-In This Internship Learn aboud Cyber Security Codes This Codes Are Create Using Python Language.
-In This Code Ceaser Chipher Technique are use and also Made strong Password Code.
+"In this internship, I learned about Cyber Security and developed multiple security-related programs using Python. This project includes a Caesar Cipher encryption–decryption tool, a Strong Password Generator, and a basic Keylogger created for learning and educational purposes."
